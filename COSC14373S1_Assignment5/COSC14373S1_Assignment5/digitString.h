@@ -1,7 +1,7 @@
 #ifndef DIGIT_STRING
 #define DIGIT_STRING
 
-#include <WCS_String.h>
+#include <wcs_string.h>
 
 class digitString : public WCS_String
 {
